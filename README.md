@@ -1,6 +1,6 @@
 # Forging Tokens for Improved Storage-efficient Training
 
-Official Pytorch implementation of TokenAdapt | Paper
+Official Pytorch implementation of TokenAdapt | [Paper](https://arxiv.org/abs/2312.10105)
 
  [Minhyun Lee](https://scholar.google.com/citations?user=2hUlCnQAAAAJ&hl=ko) &nbsp; [Song Park](https://8uos.github.io/) &nbsp; [Byeongho Heo](https://sites.google.com/view/byeongho-heo/home) &nbsp; [Dongyoon Han](https://sites.google.com/site/dyhan0920/) &nbsp; [Hyunjung Shim](https://scholar.google.com/citations?user=KB5XZGIAAAAJ&hl=en) 
 
